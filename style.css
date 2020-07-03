@@ -97,7 +97,7 @@ background-image: url(assest/hero-16.jpg);
 
 .productivity{
    background-color: lightgray;
-    height: 100vh;
+    height: 65vh;
     width: 100%;
 }
 .img-section{
@@ -130,7 +130,7 @@ background-image: url(assest/hero-16.jpg);
 
 .changing-content{
     width: 100%;
-    height: 100vh;
+    height: 80vh;
 }
 .all-block{
 margin: 120px 0px
@@ -183,7 +183,7 @@ width: 60%;
 
 .coundown-section{
     width: 100%;
-    height: 80vh;
+    height: 50vh;
 }
 
 .bg-coundown{
